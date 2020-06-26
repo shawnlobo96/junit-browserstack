@@ -73,7 +73,7 @@
             <plugin>
               <groupId>com.browserstack</groupId>
               <artifactId>automate-maven-plugin</artifactId>
-              <version>1.1.1-SNAPSHOT</version>
+              <version>1.1.1</version>
               <configuration>
                   <source>${jdk.source.version}</source>
                   <target>${jdk.target.version}</target>
